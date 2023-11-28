@@ -1,4 +1,6 @@
-package org.example.refactoringGuru.structural.adapter;
+package org.example.refactoringGuru.structural.adapter.hole;
+
+import org.example.refactoringGuru.structural.adapter.pegs.RoundPeg;
 
 public class RoundHole {
     private final double radius;

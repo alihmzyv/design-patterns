@@ -1,4 +1,4 @@
-package org.example.refactoringGuru.structural.adapter;
+package org.example.refactoringGuru.structural.adapter.pegs;
 
 public class SquarePegAdapter extends RoundPeg {
     private final SquarePeg squarePeg;

@@ -1,5 +1,10 @@
 package org.example.refactoringGuru.structural.adapter;
 
+import org.example.refactoringGuru.structural.adapter.hole.RoundHole;
+import org.example.refactoringGuru.structural.adapter.pegs.RoundPeg;
+import org.example.refactoringGuru.structural.adapter.pegs.SquarePeg;
+import org.example.refactoringGuru.structural.adapter.pegs.SquarePegAdapter;
+
 public class Main {
     public static void main(String[] args) {
         RoundHole roundHole = new RoundHole(10);
